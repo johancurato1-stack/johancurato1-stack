@@ -75,7 +75,7 @@ BH Finder is a student-focused platform that connects tenants and landlords thro
 ![Supabase](https://img.shields.io/badge/Supabase-292C32?style=for-the-badge&logo=supabase&logoColor=B9BEC7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292C32?style=for-the-badge&logo=postgresql&logoColor=B9BEC7)
 
-**[View Source Code](REPLACE_WITH_BH_FINDER_REPOSITORY_URL)**
+**[View Source Code](https://github.com/johancurato1-stack/BH-Finder-Main)**
 
 ## Connect With Me
 
