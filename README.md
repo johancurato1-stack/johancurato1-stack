@@ -77,8 +77,8 @@ BH Finder is a student-focused platform that connects tenants and landlords thro
 
 ## Connect With Me
 
-- **Portfolio:** Add your deployed portfolio URL
-- **LinkedIn:** [Johan Garcia](https://www.linkedin.com/in/johan-curato-696a80361/)
+- **Portfolio:** [johangarcia.dev](https://johan-portfolio-delta.vercel.app)
+- **LinkedIn:** [Johan Garcia](https://www.linkedin.com/in/johan-curato-696a80361)
 - **GitHub:** [johancurato1-stack](https://github.com/johancurato1-stack)
 
 ---
