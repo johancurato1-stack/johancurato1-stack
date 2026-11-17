@@ -1,5 +1,3 @@
-## Hi, I'm Johan Garcia Curato!
-
 <div align="center">
   <img src="./profile-banner.png" alt="Johan Garcia - Full-Stack Developer" width="100%" />
 
